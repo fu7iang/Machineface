@@ -51,6 +51,8 @@ ColumnLayout {
         }
     }
 
+    SmartplugControl { }
+
     Item {
         Layout.fillHeight: true
     }

@@ -30,5 +30,6 @@
         <file>Machineface/icons/MaterialIcons-Regular.ttf</file>
         <file>Machineface/JogKeyHandler.qml</file>
         <file>Init.qml</file>
+        <file>Machineface/SmartplugControl.qml</file>
     </qresource>
 </RCC>
